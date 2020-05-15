@@ -1,10 +1,10 @@
-##Genetic algorithm implementation on Python
+## Genetic algorithm implementation on Python
 ------------------
 This module contains:
-*selection.py: all selection methods for choosing parents.
-*crossover.py: class contains cross over methods of exchanging segments between parents or choromosomes.
-*mutation.py: define mutation methods of a child.
-*genetic.py: main implementation of genetic algorithm.
+* selection.py: all selection methods for choosing parents.
+* crossover.py: class contains cross over methods of exchanging segments between parents or choromosomes.
+* mutation.py: define mutation methods of a child.
+* genetic.py: main implementation of genetic algorithm.
 
 To run example:
 ```python
